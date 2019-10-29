@@ -1,7 +1,6 @@
 package br.com.osvaldsoza.filmesapi.resource;
 
 import br.com.osvaldsoza.filmesapi.model.Filme;
-import br.com.osvaldsoza.filmesapi.model.Genero;
 import br.com.osvaldsoza.filmesapi.service.FilmeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
